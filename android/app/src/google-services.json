@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388282845170",
+    "project_id": "medica2-19c18",
+    "storage_bucket": "medica2-19c18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388282845170:android:38044235965dcf0b3d0d6b",
+        "android_client_info": {
+          "package_name": "com.awais.medica2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWIO23B9wuY0itNByUTKgf7LPD57GVeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
