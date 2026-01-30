@@ -1,10 +1,15 @@
-<<<<<<< HEAD
 Medica2 – Medicinal Plant Identification & Classification App
-
-Version: 1.0
-Updated on: 20/01/2026
-
-Welcome to Medica2, your smart app for identifying and classifying medicinal plants. Medica2 allows you to predict the type of medicinal plant from an image, giving you the common name, scientific name, and medicinal properties. You can also contribute to the community by uploading new plant images, which are later verified by experts to improve the model.
-=======
-# medica
->>>>>>> a65f91639723b12edd4c5ce1f98aca1d25c0c0b3
+Project Overview
+Welcome to Medica2, an intelligent solution for identifying and classifying medicinal plants. This application allows users to predict plant species from images, providing instant access to:
+Common Names
+Scientific Names
+Medicinal Properties & Uses
+Developer Profile
+This project is conceptualized and developed by Awais Khan.
+Medica2 is a hand-crafted project and represents my dedication as a Final Year Project (FYP).
+The Journey Building this project was a journey of over 8 to 9 months of continuous research, development, and refinement. Every feature—from the Deep Learning model to the Flutter UI—has been built with a focus on accuracy and user experience.
+Key Features
+AI Classification: High-accuracy prediction using a custom-trained model.
+Community Contribution: Users can upload new plant images to help improve the model.
+Expert Verification: Contributed data is verified by experts to ensure scientific reliability.
+Plant Encyclopedia: Detailed database of medicinal properties.
