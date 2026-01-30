@@ -1,0 +1,22 @@
+Someplatform you need to run this project
+
+firebase for authentication
+supabase for storage
+provider for statemanagement
+need any cloud plaftform like hugging face wherer you put this model and make an api
+
+extension need in vs or android studio code 
+flutter
+dart 
+
+emulator , simulator need
+
+All packages you install through pubsdev website
+
+
+
+
+languages use
+fluter
+provider
+dart 
